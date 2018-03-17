@@ -6,8 +6,8 @@ font-family: 'Dancing Script', sans-serif;
 font-family: Vollkorn, serif;
 }
 .dot {
-  height: 25px;
-  width: 25px;
+  height: 480px;
+  width: 480px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
