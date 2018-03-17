@@ -1,6 +1,14 @@
 .dancing {
-font-family: 'Dancing Script', cursive;
+font-family: 'Dancing Script', sans-serif;
 }
+
 .vollkorn {
-font-family: 'Vollkorn', serif;
+font-family: Vollkorn, serif;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
 }
