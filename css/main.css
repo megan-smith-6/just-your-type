@@ -5,20 +5,21 @@ font-family: 'Dancing Script', sans-serif;
 .vollkorn {
 font-family: Vollkorn, serif;
 }
+
 .circle-1 {
-  height: 480px;
-  width: 480px;
+  height: auto;
+  width: 320px;
   background-color: #e5985e;
   border-radius: 50%;
   display: inline-block;
-  min-width: 480px;
+  min-width: 320px;
 }
 
 .circle-2 {
-  height: 480px;
-  width: 480px;
+  height: auto;
+  width: 320px;
   background-color: #d8803e;
   border-radius: 50%;
   display: inline-block;
-  min-width: 480px;
+  min-width: 320px;
 }
