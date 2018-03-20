@@ -7,19 +7,17 @@ font-family: Vollkorn, serif;
 }
 
 .circle-1 {
-  height: auto;
-  width: 320px;
+  height: 20em;
+  width: 20em;
   background-color: #e5985e;
   border-radius: 50%;
-  display: inline-block;
-  min-width: 320px;
+  min-width: 20em;
 }
 
 .circle-2 {
-  height: auto;
-  width: 320px;
+  height: 20em;
+  width: 20em;
   background-color: #d8803e;
   border-radius: 50%;
-  display: inline-block;
-  min-width: 320px;
+  min-width: 20em;
 }
