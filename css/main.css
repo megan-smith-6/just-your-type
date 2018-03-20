@@ -21,3 +21,9 @@ font-family: Vollkorn, serif;
   border-radius: 50%;
   min-width: 20em;
 }
+
+.border {
+  text-align: center;
+  border-top: 2px solid #000000;
+  width: 7em;
+}
