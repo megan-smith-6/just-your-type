@@ -27,3 +27,12 @@ font-family: Vollkorn, serif;
   border-top: 2px solid #000000;
   width: 7em;
 }
+
+@media only screen and (min-width: 60em) {
+
+  .circle-1, .circle-2 {
+    height: 25em;
+    width: 25em;
+  }
+
+}
